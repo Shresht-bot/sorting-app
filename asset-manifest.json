@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sorting-app/static/css/main.ad245186.css",
+    "main.js": "/sorting-app/static/js/main.bf427422.js",
+    "index.html": "/sorting-app/index.html",
+    "main.ad245186.css.map": "/sorting-app/static/css/main.ad245186.css.map",
+    "main.bf427422.js.map": "/sorting-app/static/js/main.bf427422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad245186.css",
+    "static/js/main.bf427422.js"
+  ]
+}
