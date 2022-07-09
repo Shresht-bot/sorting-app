@@ -1,0 +1,16 @@
+label {
+  font-family: "Garamond", serif;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-left: 4rem;
+  padding-right: 4px;
+}
+
+select {
+  position: relative;
+  padding-right: 6rem;
+  font-family: "Garamond", serif;
+  font-size: 2rem;
+  font-weight: bold;
+  border: 2px solid #000000;
+}
